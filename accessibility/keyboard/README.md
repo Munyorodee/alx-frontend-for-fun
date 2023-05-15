@@ -1,3 +1,0 @@
-# KEYBOARD
-
-## Styles
